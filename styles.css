@@ -23,4 +23,44 @@ body {
 
 
 
+.lasagna {
+    float: left;
+}
+
+.cannelloni {
+    float: right;
+}
+
+.recipes {
+    text-align: center;
+    margin: 50px;
+}
+
+.lasagna-picture {
+    float: left;
+    margin-left:40px;
+}
+
+.cannelloni-picture {
+    float: right;
+    margin-right: 40px;
+}
+
+.parmigiana-picture {
+    margin-left: 155px;
+}
+
+img {
+    height: 400px;
+    width: 510px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
 
